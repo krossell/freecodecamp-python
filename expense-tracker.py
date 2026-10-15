@@ -46,3 +46,4 @@ def main():
             print('Exiting the program.')
             break
 
+main()
